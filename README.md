@@ -1,4 +1,6 @@
 # nasihu_s_2nd_dev_portfolio
+web page: https://g-e-m-u.github.io/nasihu_s_2nd_dev_portfolio/
+
 A fully responsive city skyline illustration built entirely with HTML and CSS, using flexbox, gradients, and CSS variables, no images or JavaScript.
 
 This project is a pure HTML and CSS city skyline illustration that renders a layered urban scene with background and foreground buildings, windows, and a dynamic sky. No images, SVGs, or JavaScript are used. Every visual element is created entirely with CSS.
